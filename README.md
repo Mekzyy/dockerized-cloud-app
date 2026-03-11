@@ -1,3 +1,7 @@
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![AWS](https://img.shields.io/badge/AWS-EC2-orange)
+![Python](https://img.shields.io/badge/Python-Flask-green)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue)
 # Dockerized Cloud Application
 
 This project demonstrates containerizing a Python Flask application using Docker.
